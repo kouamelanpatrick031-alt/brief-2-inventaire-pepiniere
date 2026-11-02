@@ -4,7 +4,7 @@
 // Renvoie un NOUVEAU tableau avec les plants dont le nom commun CONTIENT le texte cherché,
 // sans tenir compte des majuscules : 'PALM' trouve 'palmier à huile'. Éventuellement vide.
 export function rechercherParNom(plants, texte) {
-  throw new Error('TODO : coder rechercherParNom dans src/recherche.js');
+  throw new Error('TODO : coder rechercherParNom dans src/recherche.js'); 
 }
 
 // Renvoie un NOUVEAU tableau avec les plants de ce groupe botanique (éventuellement vide).
